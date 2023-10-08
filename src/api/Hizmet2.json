@@ -1,0 +1,37 @@
+[
+    {
+        "id":1 ,
+        "title":"İMALAT",
+        "img":"https://i.imgur.com/IHzL2Gb.png",
+        "desc":"Cam Balkon ürünlerimiz kendi imalatımızdır."
+    
+    },
+    {
+        "id": 2,
+        "title": "MONTAJ",
+        "img": "https://i.imgur.com/awcGvCe.png",
+        "desc":"Profesyonel ekibimiz ile hizmetinizdeyiz." 
+      
+    },
+    {
+        "id": 3,
+        "title":"UYGUN FİYAT" ,
+        "img": "https://i.imgur.com/iaiFxrX.png",
+        "desc": "Ankarada en uygun fiyat garantisi veriyoruz."
+        
+    },
+    {
+        "id": 4,
+        "title": "ÜRÜN ÇEŞİTLERİ",
+        "img": "https://i.imgur.com/ShS5eex.png",
+        "desc":"Sürme-Katlanır-Profesyonel Cam Isıcam Modelleri." 
+      
+    },
+    {
+        "id":5 ,
+        "title":"ALÜMİNYUM FİTİL" ,
+        "img": "https://i.imgur.com/tPbKYiq.png",
+        "desc":"Mükemmel izolasyon, ömür boyu kullanım." 
+       
+    }
+]

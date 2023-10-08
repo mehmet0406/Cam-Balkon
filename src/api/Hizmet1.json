@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "image": "https://i.imgur.com/uD6CFLk.jpg",
+        "title": "Cam Balkon"
+    },
+    {
+        "id":2,
+        "image":"https://i.imgur.com/6ua4OwY.jpg",
+        "title":"Kış Bahçesi"
+    },
+    {
+        "id":3,
+        "image":"https://i.imgur.com/0Wj4kVa.jpg",
+        "title":"Duşakabin"
+    },
+    {
+        "id":4,
+        "image":"https://i.imgur.com/0BQJlhC.jpg",
+        "title":"Sineklik"
+    }
+]   
